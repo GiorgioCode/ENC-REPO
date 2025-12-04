@@ -137,10 +137,10 @@
     Indicador de calidad de datos hidrográficos para evaluar confiabilidad del fondo.
 
 -   **Overlays comunes en ECDIS**
-    -   AIS Targets
-    -   Radar Reflectivity Layer
-    -   Mapa meteorológico/OLA
-    -   TSS, AtoN, rutas recomendadas
+    -   AIS (Sistema de identificacion automatica - NMEA)
+    -   Radar
+    -   Mapas meteorología (GRIB - Archivo)
+    -   TSS, AtoN, rutas recomendadas (NMEA AIS + Archivos)
 
 ---
 
@@ -179,9 +179,9 @@
 -   [ ] Implementar visualización multi-capa.
 -   [ ] Georreferenciación WGS84 + grilla.
 -   [ ] Manejar lógica de capas y prioridad S-52.
--   [ ] Radar Overlay + CCRP Integration.
+-   [ ] Radar Overlay + CCRP.
 -   [ ] Buffer de movimiento y memoria gráfica.
--   [ ] API para consulta de objetos ENC.
+-   [ ] Consulta de objetos ENC.
 -   [ ] contacto con SIHN (Servicio de Hidrografía Naval Argentino).
     -   [ ] Solicitar dataset S-57 oficial.
     -   [ ] Procesar y recortar capas de interés con CARIS.
