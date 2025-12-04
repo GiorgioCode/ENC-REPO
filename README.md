@@ -1,7 +1,7 @@
 # 01 DEFINICIONES ENC IHO
 
-ENC - ELECTRONIC NAUTIC CHART
-IHO - INTERNATIONAL HYDROGRAPHIC ORGANIZATION
+-   ENC - ELECTRONIC NAUTIC CHART
+-   IHO - INTERNATIONAL HYDROGRAPHIC ORGANIZATION
 
 # 02 DIFERENCIA ENTRE CARTAS NAUTICAS PAPEL, RASTER Y ENC IHO
 
@@ -17,14 +17,14 @@ IHO - INTERNATIONAL HYDROGRAPHIC ORGANIZATION
 
 # 02 ESPECIFICACIONES
 
-S 52 / Especificaciones de visualizacion de la terminal ECDIS
-S 57 / Especificaciones respecto a la codificacion de las celdas ENC
-S 63 / Encriptado y protocolo de validacion para venta de ENC
+-   S 52 / Especificaciones de visualizacion de la terminal ECDIS
+-   S 57 / Especificaciones respecto a la codificacion de las celdas ENC
+-   S 63 / Encriptado y protocolo de validacion para venta de ENC
 
 # 03 DOCUMENTACION OFICIAL
 
-https://iho.int/en/s-57-enc-portrayal
-https://iho.int/en/standards-and-specifications
+-   https://iho.int/en/s-57-enc-portrayal
+-   https://iho.int/en/standards-and-specifications
 
 # 04 CONCEPTOS
 
