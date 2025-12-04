@@ -155,7 +155,7 @@
 
 ---
 
-## 09. TO-DO técnico para desarrollos
+## 09. TO-DO propuesto (inicial)
 
 -   [ ] Renderizar ENC y mostrar atributos de objetos.
 -   [ ] Implementar visualización multi-capa.
@@ -164,9 +164,9 @@
 -   [ ] Radar Overlay + CCRP Integration.
 -   [ ] Buffer de movimiento y memoria gráfica.
 -   [ ] API para consulta de objetos ENC.
--   [ ] Integrar con SIHN (Servicio de Hidrografía Naval Argentino).
+-   [ ] contacto con SIHN (Servicio de Hidrografía Naval Argentino).
     -   [ ] Solicitar dataset S-57 oficial.
-    -   [ ] Procesar y recortar capas por interés con CARIS.
+    -   [ ] Procesar y recortar capas de interés con CARIS.
 
 ---
 
